@@ -1,4 +1,4 @@
-# Project 1: k-Nearest Neighbor Classification
+# k-Nearest Neighbor Classification
 
 ## Objectives:
 In this assignment you will implement k-nearest neighbor classification. Your submission should have a folder called nearest neighbors, which contains your code and the README.txt file.
